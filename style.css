@@ -1,0 +1,84 @@
+html {
+    height:100%;
+    width:100%;
+}
+
+h1{
+    color: #832d51;
+    text-align: center;
+
+}
+h2{
+    color: #832d51;
+    text-align: center;
+
+}
+body{
+    background-color:#f8cae4 ;
+}
+
+.goats{
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answerbuttons{
+   text-align: center; 
+   word-spacing: 20px;
+
+}
+
+.links{
+    text-decoration: none;
+    color: #832d51;
+    padding: 1px 4px;
+    border: 2px solid #ea6993;
+    border-radius: 5px;
+    background-color: #ea6993;
+}
+a:hover{
+    color: #cfdd9d;
+    border: 2px #447a5f;
+
+}
+
+.kissie1{
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gay{
+     text-align: center; 
+   word-spacing: 5px;
+}
+
+.Backbutton{
+      text-align: center; 
+   word-spacing: 5px;
+}
+
+.kissie2{
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kissie3{
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Next{
+    text-align: center; 
+   word-spacing: 5px;
+}
